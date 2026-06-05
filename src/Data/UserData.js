@@ -1,11 +1,11 @@
 // src/Data/UserData.js
 // Normal user profile data
 export const USER_DATA = {
-  name: 'Rahul Verma',
-  handle: '@rahul.seva',
+  name: 'Prashant Mishra',
+  handle: '@prashant.seva',
   avatar: '👤',
-  area: 'Sector 14, Noida',
-  joined: 'January 2024',
+  area: 'Sector 14, Lucknow',
+  joined: 'June 2026',
   status: 'active',
   tier: 'Seva Volunteer',
   tierLevel: 2,
@@ -13,7 +13,7 @@ export const USER_DATA = {
   nextTierXP: 8000,
   streak: 12,
   verified: false,
-  bio: 'Animal lover from Noida. Report strays, join drives whenever I can.',
+  bio: 'Animal lover from Lucknow . Report strays, join drives whenever I can.',
   rank: { ward: 8, city: 142, state: 1820, national: 14200 },
   stats: {
     reportsTotal: 34,
