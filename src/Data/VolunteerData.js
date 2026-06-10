@@ -1,11 +1,11 @@
 // src/Data/VolunteerData.js
 export const VOLUNTEER_DATA = {
-  name: 'Rahul Verma',
-  handle: '@rahul.seva',
-  avatar: '🦸',
-  area: 'Sector 14, Noida',
-  joined: 'January 2024',
+  name: 'Prashant Mishra',
+  handle: '@prashant.seva',
+  area: 'Sector 14, Lucknow',
+  joined: 'June 2026',
   status: 'active',
+  avatar: '🦸',
   tier: 'Seva Champion',
   tierLevel: 4,
   xp: 24820,
